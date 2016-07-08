@@ -1,2 +1,2 @@
 # hello-world
-This is a short description for my hello world
+I'm testing the commit function by editing this readme file
